@@ -1,1 +1,4 @@
 # StatisticalAnalysis_NHL
+This Java program conducts sophisticated statistical analyses on NHL player statistics sourced from a user-specified file. 
+It meticulously processes the data, deriving trends and insights to unveil key performance indicators. The analyses encompass determining the player with the highest point accumulation, identifying the most aggressive player, singling out the Most Valuable Player (MVP) based on predefined criteria, spotlighting the most promising player, and gauging team performance by identifying the squads with the highest penalty counts and winning goals. 
+The program encapsulates its findings in a comprehensive output file named "nhlstatsoutput.txt," providing a detailed snapshot of the underlying statistical trends and player/team performances in the NHL dataset.
